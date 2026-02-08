@@ -1,8 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Irvin Isael Martínez Alejo</h1>
-
-<p align="center">
-  Bienvenido a mi perfil de GitHub 🙌  
-</p>
+<h1 align="center"> Irvin Isael Martínez Alejo</h1>
 
 ---
 
@@ -52,12 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IRVINISAEL&show_icons=true&theme=tokyonight" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRVINISAEL&layout=compact&theme=tokyonight" height="160">
 </p>
-
----
-
-## 📫 Contacto
-📧 **Correo:** *(agrega tu correo aquí)*  
-💬 Siempre abierto a colaborar o aprender algo nuevo.
 
 ---
 
