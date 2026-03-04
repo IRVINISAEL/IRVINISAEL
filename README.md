@@ -11,7 +11,7 @@
 
 # Irvin Isael Martínez Alejo
 
-### Desarrollador Full Stack · Mobile · IoT
+### Desarrollador Front End · Mobile · IoT
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=PHP+%7C+React+Native+%7C+Node.js;Construyendo+soluciones+reales+%F0%9F%9A%80;Apasionado+por+el+c%C3%B3digo+limpio+%E2%9C%A8;IoT+%7C+Biometría+%7C+Full+Stack)](https://git.io/typing-svg)
 
